@@ -2,8 +2,11 @@
 ETL using Open Weather Map API  on AWS  using Airflow
 Airflow ETL for Fetching WeatherAPI, tranform it and load data into AWS S3 bucket.
 Extract --> Open Weather Map API 
-Transform --> Python
+
+Transform --> Python   
+
 Load --> S3 bucket
+
 Orchestration --> Airflow
 
 Step1 --> Launch an EC2 instance on AWS and download airflow and required libraries.
