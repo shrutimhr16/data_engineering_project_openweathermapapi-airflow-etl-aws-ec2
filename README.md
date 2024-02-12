@@ -9,7 +9,7 @@ Load --> S3 bucket in csv format
 
 Orchestration --> Airflow
 
-Workflow :- This project is fetching data from https://openweathermap.org/api. You might have to register first and configure key for fetching realtime API data. It will first check availability of the API, then fetch weather data for city mentioned in API call, perform transformation on data and finally load result of tranformed data into AWS S3 Bucket.
+<h3>Workflow :</h3> This project is fetching data from https://openweathermap.org/api. You might have to register first and configure key for fetching realtime API data. It will first check availability of the API, then fetch weather data for city mentioned in API call, perform transformation on data and finally load result of tranformed data into AWS S3 Bucket.
 
 <h3> Steps: </h3>
 
